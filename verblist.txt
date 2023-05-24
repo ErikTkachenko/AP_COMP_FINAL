@@ -1,0 +1,17 @@
+dances : dancing : 0.8
+exercises : exercising : 0.8
+falls : falling : 0.3
+vibes : vibing: 0.7
+plays : playing : 0.7
+sleeps : sleeping : 0.7
+dies : dying : 0.1
+explodes : exploding : 0.2
+trains : training : 0.6
+works : working : 0.5
+forfeits : forfeiting : 0.4
+codes : coding : 0.7
+bawls : bawling : 0.1
+profits : profiting : 0.9
+listens : listening : 0.6
+cries : crying : 0.2
+boogies : boogying : 0.9

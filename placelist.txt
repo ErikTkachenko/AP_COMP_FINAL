@@ -1,0 +1,44 @@
+streets of harlem : 0.999
+roof : 0.529
+stairs : 0.528
+elevator : 0.484
+escalator : 0.458
+park : 0.672
+playground : 0.689
+garden : 0.702
+zoo : 0.711
+museum : 0.696
+library : 0.693
+school : 0.300
+university : 0.726
+hospital : 0.230
+hotel : 0.714
+restaurant : 0.709
+cafe : 0.617
+bar : 0.400
+store : 0.609
+market : 0.617
+mall : 0.607
+cinema : 0.673
+theater : 0.696
+gym : 0.714
+pool : 0.592
+beach : 0.721
+mountain : 0.693
+lake : 0.677
+river : 0.649
+ocean : 0.738
+cave : 0.210
+prison : 0.101
+cell : 0.302
+mariana trench : 0.134
+classroom of Mr. J : 0.888
+classroom of Rex Rice : 0.353
+janitor's closet : 0.202
+manor : 0.111
+nearest los pollos hermanos location : 0.444
+JFK assassination site : 0.467
+salt mines : 0.223
+mineshaft : 0.189
+
+

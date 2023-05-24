@@ -1,0 +1,121 @@
+ring : 0.7
+necklace : 0.6
+bracelet : 0.6
+watch : 0.6
+earrings : 0.8
+perfume : 0.4
+makeup : 0.2
+mirror : 0.4
+book : 0.1
+notebook : 0.6
+pen : 0.6
+pencil : 0.6
+painting : 0.7
+sculpture : 0.7
+photograph : 0.6
+camera : 0.6
+television : 0.6
+computer : 0.6
+smartphone : 0.6
+tablet : 0.6
+headphones : 0.6
+speaker : 0.6
+guitar : 0.7
+piano : 0.7
+violin : 0.7
+drums : 0.6
+microphone : 0.6
+stage : 0.7
+ticket : 0.6
+movie : 0.7
+popcorn : 0.8
+candy : 0.3
+cake : 0.7
+cookie : 0.6
+chocolate : 0.6
+wine : 0.3
+beer : 0.2
+whiskey : 0.1
+vase : 0.4
+flower : 0.7
+plant : 0.6
+sofa : 0.4
+chair : 0.2
+table : 0.6
+lamp : 0.6
+rug : 0.6
+curtain : 0.6
+bed : 0.8
+pillow : 0.7
+blanket : 0.6
+towel : 0.5
+candle : 0.5
+dish : 0.8
+bowl : 0.5
+plate : 0.2
+glass : 0.6
+fork : 0.6
+spoon : 0.6
+knife : 0.2
+pan : 0.6
+pot : 0.6
+oven : 0.6
+fridge : 0.6
+washer : 0.6
+dryer : 0.6
+vacuum : 0.6
+paint : 0.5
+brush : 0.5
+easel : 0.6
+canvas : 0.6
+clay : 0.6
+pottery : 0.7
+glassware : 0.6
+jewelry : 0.6
+scarf : 0.6
+hat : 0.6
+glasses : 0.6
+bag : 0.6
+bomb : 0.1
+brass knuckles : 0.2
+bomb vest: 0.1
+treadmill : 0.5
+wig : 0.5
+watermelon : 0.8
+motorcycle : 0.6
+blade : 0.2
+wall : 0.4
+phone with plants vs zombies : 0.7
+koala : 0.2
+cat : 0.6
+panda : 0.1
+parasite : 0.1
+tomato : 0.4
+potato : 0.5
+head of broccoli : 0.3
+bottle of ketchup : 0.3
+large McDonald's Fry : 0.8
+Nintendo Switch : 0.8
+nerd : 0.1
+emoji : 0.3
+glass shard : 0.3
+molotov cocktail : 0.1
+flash bang : 0.2
+nuke : 0.2
+Nintendo Wii : 0.8
+coca-cola : 0.6
+pepsi : 0.4
+turtle : 0.9
+dog : 0.9
+hound : 0.2
+earmuffs : 0.6
+tadpole : 0.2
+frog : 0.2
+piece of driftwood : 0.1
+one piece : 0.2
+onion ring : 0.3
+dvd set : 0.4
+pokemon card : 0.9
+thug shaker : 0.9
+chromebook : 0.1
+snack : 0.6

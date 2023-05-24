@@ -1,0 +1,20 @@
+breaks : breaking : 0.2
+flips : flipping : 0.4
+rides : riding : 0.6
+drinks : drinking : 0.3
+eats : eating : 0.6
+smashes : smashing : 0.1
+creates : creating : 0.9
+slices : slicing : 0.1
+dices : dicing : 0.2
+trips over : tripping : 0.2
+uses : using : 0.5
+cooks : cooking : 0.7
+cracks : cracking : 0.7
+packages : packaging : 0.5
+deletes : deleting : 0.3
+stitches : stitching : 0.8
+patches : patching : 0.8
+looks at : looking : 0.6
+observes : observing : 0.7
+stares at : staring : 0.4

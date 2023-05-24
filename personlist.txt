@@ -1,0 +1,11 @@
+Osama Bin Laden : 0.1
+Joe Biden : 0.5
+Donald Trump : 0.4
+Jacob Jagodzinski : 0.9
+Tenny Dibooglu : 0.8
+Abheekus Dhawanus : 0.8
+Aiden Lambert : 0.8
+Barack Obama : 0.6
+Geoswar Quan : 0.3
+Kevin Tang : 0.2
+Chad : 0.9

@@ -1,0 +1,22 @@
+hates : hating : 0.1
+kills : killing : 0.1
+loves : loving : 0.9
+revives : reviving : 0.8
+stabs : stabbing : 0.3
+beats : beating : 0.3
+threatens : threatening : 0.3
+defends : defending : 0.7
+locates : locating : 0.5
+cuts : cutting : 0.2
+heals : healing : 0.7
+observes : observing : 0.5
+tracks : tracking : 0.6
+mimics : mimicing : 0.4
+fears : fearing : 0.4
+notices : noticing : 0.6
+approaches : approaching : 0.5
+blackmails : blackmailing : 0.2
+answers : answering : 0.8
+corrects : correcting : 0.3
+dances with : dancing : 0.9
+shoots : shooting : 0.6
